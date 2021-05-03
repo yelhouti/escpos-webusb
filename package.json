@@ -1,6 +1,6 @@
 {
   "name": "escpos-webusb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a WebUSB adapter for node-escpos",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Youssef El Houti",
   "license": "MIT",
   "devDependencies": {
+    "@types/escpos": "^2.5.0",
     "@types/w3c-web-usb": "^1.0.4"
   }
 }
