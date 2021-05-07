@@ -1,6 +1,6 @@
 {
   "name": "escpos-webusb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a WebUSB adapter for node-escpos",
   "main": "index.js",
   "scripts": {
